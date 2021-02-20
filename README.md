@@ -1,16 +1,18 @@
 ### Jhon Armando 🧑🏻‍💻 
 [![Linkedin Badge](https://img.shields.io/badge/-Jhon%20Armando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonmercedes-infrati/)](https://www.linkedin.com/in/jhonmercedes-infrati/) [![Instagram Badge](https://img.shields.io/badge/-Jhon%20Armando-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j.mercedes93/)](https://www.instagram.com/j.mercedes93/) 
+
 - Aprendendo linguagens de programação 
   - Python 
   - Java
 - Banco de Dados
   - MySQL
   - Oracle PL/SQL
-
-<img src="https://icongr.am/devicon/java-.svg?size=40&color=currentColor" alt="Java"/> 
+<p>
+<img src="https://icongr.am/devicon/java-original.svg?size=40&color=currentColor" alt="Java"/> 
 <img src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="Python"/> 
 <img src="https://icongr.am/devicon/mysql-original.svg?size=40&color=currentColor" alt="MySQL"/> 
 <img src="https://icongr.am/devicon/oracle-original.svg?size=40&color=currentColor" alt="Oracle"/> 
+</p>
 
 ### Dev em produção
 
