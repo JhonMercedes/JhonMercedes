@@ -27,7 +27,6 @@ Skills and Tools
 <img src="https://icongr.am/devicon/gitlab-original.svg?size=40&color=currentColor" alt="Gitlab"/> 
 </p>
 
-Programadores são ferramentas para converter cafeína em código.
 
 
 
