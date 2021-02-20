@@ -6,11 +6,14 @@
 - Banco de Dados
   - MySQL
   - Oracle PL/SQL
+
 <img src="https://icongr.am/devicon/java-.svg?size=40&color=currentColor" alt="Java"/> 
 <img src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="Python"/> 
 <img src="https://icongr.am/devicon/mysql-original.svg?size=40&color=currentColor" alt="MySQL"/> 
 <img src="https://icongr.am/devicon/oracle-original.svg?size=40&color=currentColor" alt="Oracle"/> 
-#### Dev em produção
+
+### Dev em produção
+
 Skills and Tools
 <img src="https://icongr.am/devicon/linux-original.svg?size=40&color=currentColor" alt="Linux"/> 
 <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=40&color=currentColor" alt="Linux"/>
@@ -19,11 +22,8 @@ Skills and Tools
 <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor" alt="Bootstrap"/>
 <img src="https://icongr.am/devicon/github-original.svg?size=40&color=currentColor" alt="Github"/> 
 <img src="https://icongr.am/devicon/gitlab-original.svg?size=40&color=currentColor" alt="Gitlab"/> 
-<img src="https://icongr.am/devicon/slack-original.svg?size=40&color=currentColor" alt="Slack"/> 
-<img src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=40&color=currentColor" alt="Trello"/> 
 
-- Na minha maquina funciona!   😅 HAHA  
-####
+
 Programadores são ferramentas para converter cafeína em código.
 
 
