@@ -17,6 +17,7 @@
 ### Dev em produção
 
 Skills and Tools
+<p>
 <img src="https://icongr.am/devicon/linux-original.svg?size=40&color=currentColor" alt="Linux"/> 
 <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=40&color=currentColor" alt="Linux"/>
 <img src="https://icongr.am/devicon/html5-plain.svg?size=40&color=currentColor" alt="HTML5"/> 
@@ -24,7 +25,7 @@ Skills and Tools
 <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor" alt="Bootstrap"/>
 <img src="https://icongr.am/devicon/github-original.svg?size=40&color=currentColor" alt="Github"/> 
 <img src="https://icongr.am/devicon/gitlab-original.svg?size=40&color=currentColor" alt="Gitlab"/> 
-
+</p>
 
 Programadores são ferramentas para converter cafeína em código.
 
