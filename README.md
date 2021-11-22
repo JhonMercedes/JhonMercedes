@@ -13,7 +13,6 @@
 
 <p>
 <img src="https://icongr.am/devicon/java-original.svg?size=40&color=currentColor" alt="Java"/> 
-<img src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="Python"/> 
 <img src="https://icongr.am/devicon/mysql-original.svg?size=40&color=currentColor" alt="MySQL"/> 
 <img src="https://icongr.am/devicon/oracle-original.svg?size=40&color=currentColor" alt="Oracle"/> 
 </p>
