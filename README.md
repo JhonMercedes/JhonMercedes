@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMercedes&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
 - Aprendendo linguagens de programação 
-  - Python 
+  - JavaScritp
   - Java
 - Banco de Dados
   - MySQL
