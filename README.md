@@ -1,5 +1,5 @@
 ### Jhon Armando 🧑🏻‍💻 
-[![Linkedin Badge](https://img.shields.io/badge/-Jhon%20Armando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonmercedes-infrati/)](https://www.linkedin.com/in/jhonmercedes-infrati/) [![Instagram Badge](https://img.shields.io/badge/-Jhon%20Armando-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j.mercedes93/)](https://www.instagram.com/j.mercedes93/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Jhon%20Armando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhon-mercedes/)](https://www.linkedin.com/in/jhon-mercedes/) [![Instagram Badge](https://img.shields.io/badge/-Jhon%20Armando-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j.mercedes93/)](https://www.instagram.com/j.mercedes93/) 
 ## GITHUB
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JhonMercedes&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMercedes&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
