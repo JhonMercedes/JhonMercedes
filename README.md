@@ -25,7 +25,6 @@ Skills and Tools
 <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=40&color=currentColor" alt="Linux"/>
 <img src="https://icongr.am/devicon/html5-plain.svg?size=40&color=currentColor" alt="HTML5"/> 
 <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="CSS3"/> 
-<img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor" alt="Bootstrap"/>
 <img src="https://icongr.am/devicon/github-original.svg?size=40&color=currentColor" alt="Github"/> 
 <img src="https://icongr.am/devicon/gitlab-original.svg?size=40&color=currentColor" alt="Gitlab"/> 
 </p>
