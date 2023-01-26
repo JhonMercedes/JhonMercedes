@@ -5,7 +5,7 @@
 ## 
 <div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMercedes&langs_count=3&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMercedes&langs_count=10&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api?username=JhonMercedes&show_icons=true&theme=radical" />
 
 </div>
