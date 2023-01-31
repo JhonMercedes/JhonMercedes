@@ -5,16 +5,17 @@
 ## 
 <div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMercedes&langs_count=5&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMercedes&langs_count=3&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api?username=JhonMercedes&show_icons=true&theme=radical" />
 
 </div>
 
 Skills and Tools
 <p>
-<img src="https://icongr.am/devicon/javascript-original.svg?size=80&color=currentColor" alt="js"/>
+
 <img src="https://icongr.am/devicon/html5-original.svg?size=80&color=currentColor" alt="HTML5"/> 
 <img src="https://icongr.am/devicon/css3-original.svg?size=80&color=currentColor" alt="CSS3"/> 
+<img src="https://icongr.am/devicon/javascript-original.svg?size=80&color=currentColor" alt="js"/>
 <img src="https://icongr.am/devicon/gitlab-original.svg?size=80&color=currentColor" alt="gitlab"/>
 <img src="https://icongr.am/devicon/docker-original.svg?size=100&color=currentColor" alt="docker"/>
 </p>
